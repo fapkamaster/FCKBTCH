@@ -1,5 +1,8 @@
 # greasemonkey-keylogger
 
+VISIT: http://blog.javan.de/coden/greasemonkey-keylogger-mit-steuerungs-interface/
+
+
 // ENGLISH
  
 This is a full keylogger with a user interface, coded for a school project.
